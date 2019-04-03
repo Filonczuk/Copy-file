@@ -8,6 +8,6 @@ $ ./copy source destination bsize
 Where 'copy' is the name of the program, source is the name of the source file, the 'destination' is the target file 
 and the 'bsize' is an integer specifying the size of dynamically alloceted buffer.  
  
-Remmember to compile the program befor running.  
+Remmember to compile the program before running.  
 gcc copy.c -o program
 

@@ -1,7 +1,6 @@
 Two programs to copy files:
 
--c_library.c - program using the library functions of the language C fread / fopen / fclose / fwrite.
-
+-c_library.c - program using the library functions of the language C fread / fopen / fclose / fwrite. 
 -copy_linux_functions.c -program using system calls Linux read / open / close / write.
 
 You can call them in the following way:
